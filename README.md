@@ -15,12 +15,19 @@ This project demonstrates a complete **Data Analytics workflow using SQL Server*
 The analysis covers:
 
 ✅ Exploratory Data Analysis (EDA)
+
 ✅ Business KPI Reporting
+
 ✅ Customer Analytics
+
 ✅ Product Analytics
+
 ✅ Trend Analysis
+
 ✅ Segmentation Analysis
+
 ✅ Performance Monitoring
+
 ✅ Cumulative Metrics
 
 The project follows an **analytics-first approach** by moving from raw exploration to reusable reporting views.
