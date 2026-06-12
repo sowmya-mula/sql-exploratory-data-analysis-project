@@ -338,11 +338,17 @@ I enjoy creating end-to-end analytics projects that combine **data exploration, 
 ### 🚀 Languages & Technologies
 
 💻 **T-SQL**
+
 🐍 **Python**
+
 🗄 **SQL Server**
+
 📊 **Data Analytics**
+
 📈 **Business Intelligence**
+
 🏗 **Data Warehousing**
+
 📋 **Data Modeling & Reporting**
 
 ### 💡 What I Enjoy Building
