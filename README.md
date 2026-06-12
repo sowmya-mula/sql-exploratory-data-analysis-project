@@ -369,5 +369,3 @@ I enjoy creating end-to-end analytics projects that combine **data exploration, 
 
 This project reflects my journey of strengthening analytical thinking, developing practical SQL skills, and turning data into actionable business value.
 
-
-⭐ Thank you for visiting my project.
