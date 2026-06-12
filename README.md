@@ -1,3 +1,7 @@
+## 🛠 Built With
+
+T-SQL • SQL Server • Analytical SQL • Window Functions • Reporting Views
+
 # 📊 Advanced SQL Data Analytics Project
 
 Transforming raw transactional data into business insights using **SQL, analytical queries, reporting views, and customer/product intelligence**.
@@ -327,27 +331,30 @@ See the `LICENSE` file for full details.
 
 # 👩‍💻 About Me
 
-Hi, I'm **Sowmya** — an aspiring **Data Analyst** passionate about turning raw data into meaningful stories and business insights.
+Hi, I'm **Sowmya** — an aspiring **Data Analyst** passionate about transforming raw data into meaningful insights and building solutions that support better business decisions.
 
-I enjoy building projects that combine **analytics, problem-solving, and data-driven decision making**, while continuously improving my skills through hands-on work and real-world datasets.
+I enjoy creating end-to-end analytics projects that combine **data exploration, SQL development, reporting, and business analysis**, while continuously improving through hands-on learning and real-world datasets.
 
-### 🚀 Areas I’m Exploring
+### 🚀 Languages & Technologies
 
-📊 Data Analytics
-🗄 SQL & Data Warehousing
-📈 Business Intelligence & Reporting
-🐍 Python for Data Analysis
-📚 Data Exploration & Visualization
+💻 **T-SQL**
+🐍 **Python**
+🗄 **SQL Server**
+📊 **Data Analytics**
+📈 **Business Intelligence**
+🏗 **Data Warehousing**
+📋 **Data Modeling & Reporting**
 
 ### 💡 What I Enjoy Building
 
 * End-to-end analytics projects
-* Customer & product insights reports
-* SQL-based business dashboards
-* KPI and performance analysis
-* Data models that support decision-making
+* Customer & product intelligence reports
+* SQL reporting solutions
+* KPI and performance dashboards
+* Business-focused data models
+* Data exploration and insight generation
 
-This project represents part of my journey toward becoming a stronger analyst by applying analytical thinking, SQL expertise, and business-focused reporting to solve real problems with data.
+This project reflects my journey of strengthening analytical thinking, developing practical SQL skills, and turning data into actionable business value.
 
 
-
+⭐ Thank you for visiting my project.
