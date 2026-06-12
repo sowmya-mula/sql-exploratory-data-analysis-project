@@ -349,5 +349,5 @@ I enjoy building projects that combine **analytics, problem-solving, and data-dr
 
 This project represents part of my journey toward becoming a stronger analyst by applying analytical thinking, SQL expertise, and business-focused reporting to solve real problems with data.
 
-**“Transforming data into decisions, one project at a time.”**
+
 
