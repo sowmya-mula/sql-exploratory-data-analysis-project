@@ -290,12 +290,19 @@ Metrics:
 This project strengthened understanding of:
 
 ✔ SQL Analytics
+
 ✔ Data Exploration
+
 ✔ Business Reporting
+
 ✔ KPI Design
+
 ✔ Customer Intelligence
+
 ✔ Product Intelligence
+
 ✔ Query Optimization
+
 
 ---
 
