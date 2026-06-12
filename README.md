@@ -55,7 +55,7 @@ Advanced-SQL-Data-Analytics/
 │
 ├── docs/
 │
-├── screenshots/
+├── LICENSE/
 │
 └── README.md
 ```
